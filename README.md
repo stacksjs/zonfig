@@ -1,3 +1,5 @@
+****NOTE: development has moved to [zig-config](https://github.com/zig-utils/zig-config).****
+
 # Zonfig
 
 A zero-dependency configuration loader for Zig, inspired by [bunfig](https://github.com/stacksjs/bunfig).
